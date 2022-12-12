@@ -1,4 +1,4 @@
-const notice = document.getElementById('maintenance-notice')
+const notice = document.getElementById('maintenance-notice');
 
 
 setTimeout(() => {
